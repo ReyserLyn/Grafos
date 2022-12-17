@@ -6,7 +6,6 @@ _Es un software creado con java, que permite crear grafos no dirigidos y hacer a
 
 _Las siguientes instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu computadora local para propósitos de desarrollo y pruebas._
 
-
 ### Pre-requisitos 📋
 
 _Para poder tener la copia del proyecto de manera ideal necesitarias los siguientes softwares:_
@@ -14,6 +13,7 @@ _Para poder tener la copia del proyecto de manera ideal necesitarias los siguien
 ```
 NetBeans
 ```
+
 ### Instalación 🔧
 
 _Para instalar de manera adecuada el proyecto tendrás que:_
